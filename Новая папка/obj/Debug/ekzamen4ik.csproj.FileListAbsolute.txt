@@ -1,0 +1,8 @@
+C:\Users\amir_\source\repos\ekzamen4ik\bin\Debug\ekzamen4ik.exe.config
+C:\Users\amir_\source\repos\ekzamen4ik\bin\Debug\ekzamen4ik.exe
+C:\Users\amir_\source\repos\ekzamen4ik\bin\Debug\ekzamen4ik.pdb
+C:\Users\amir_\source\repos\ekzamen4ik\obj\Debug\ekzamen4ik.csproj.AssemblyReference.cache
+C:\Users\amir_\source\repos\ekzamen4ik\obj\Debug\ekzamen4ik.csproj.CoreCompileInputs.cache
+C:\Users\amir_\source\repos\ekzamen4ik\obj\Debug\ekzamen4ik.exe
+C:\Users\amir_\source\repos\ekzamen4ik\obj\Debug\ekzamen4ik.pdb
+C:\Users\amir_\source\repos\ekzamen4ik\obj\Debug\ekzamen4ik.exe.config
